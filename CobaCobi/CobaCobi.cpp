@@ -11,6 +11,7 @@ int main()
     //display 'Luasnya= ' + nLuas
 
     float nJejari, nLuas;
+    cout << "====Hitung Luas Lingkaran====";
     cout << "Masukan jejari = ";
     cin >> nJejari;
     nLuas = 3.14 * nJejari * nJejari;
